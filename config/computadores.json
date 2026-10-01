@@ -1,0 +1,702 @@
+[
+    {
+        "nome": "PC-DIR-01",
+        "ip": "10.0.1.10",
+        "departamento": "Diretoria",
+        "user": "carlos.alberto",
+        "localizacao": "Andar 10 - Sala 1001"
+    },
+    {
+        "nome": "PC-DIR-02",
+        "ip": "10.0.1.11",
+        "departamento": "Diretoria",
+        "user": "fernanda.lima",
+        "localizacao": "Andar 10 - Sala 1002"
+    },
+    {
+        "nome": "PC-DIR-03",
+        "ip": "10.0.1.12",
+        "departamento": "Diretoria",
+        "user": "roberto.nogueira",
+        "localizacao": "Andar 10 - Sala 1003"
+    },
+    {
+        "nome": "PC-DIR-04",
+        "ip": "10.0.1.13",
+        "departamento": "Diretoria",
+        "user": "patricia.mendes",
+        "localizacao": "Andar 10 - Sala 1004"
+    },
+    {
+        "nome": "PC-DIR-05",
+        "ip": "10.0.1.14",
+        "departamento": "Diretoria",
+        "user": "eduardo.gomes",
+        "localizacao": "Andar 10 - Sala 1005"
+    },
+    {
+        "nome": "PC-RH-01",
+        "ip": "10.0.2.10",
+        "departamento": "Recursos Humanos",
+        "user": "ana.souza",
+        "localizacao": "Andar 3 - Sala 301"
+    },
+    {
+        "nome": "PC-RH-02",
+        "ip": "10.0.2.11",
+        "departamento": "Recursos Humanos",
+        "user": "marcos.pereira",
+        "localizacao": "Andar 3 - Sala 302"
+    },
+    {
+        "nome": "PC-RH-03",
+        "ip": "10.0.2.12",
+        "departamento": "Recursos Humanos",
+        "user": "juliana.costa",
+        "localizacao": "Andar 3 - Sala 303"
+    },
+    {
+        "nome": "PC-RH-04",
+        "ip": "10.0.2.13",
+        "departamento": "Recursos Humanos",
+        "user": "rafael.almeida",
+        "localizacao": "Andar 3 - Sala 304"
+    },
+    {
+        "nome": "PC-RH-05",
+        "ip": "10.0.2.14",
+        "departamento": "Recursos Humanos",
+        "user": "camila.ribeiro",
+        "localizacao": "Andar 3 - Sala 305"
+    },
+    {
+        "nome": "PC-RH-06",
+        "ip": "10.0.2.15",
+        "departamento": "Recursos Humanos",
+        "user": "bruno.carvalho",
+        "localizacao": "Andar 3 - Sala 306"
+    },
+    {
+        "nome": "PC-RH-07",
+        "ip": "10.0.2.16",
+        "departamento": "Recursos Humanos",
+        "user": "larissa.martins",
+        "localizacao": "Andar 3 - Sala 307"
+    },
+    {
+        "nome": "PC-FIN-01",
+        "ip": "10.0.3.10",
+        "departamento": "Financeiro",
+        "user": "ricardo.barbosa",
+        "localizacao": "Andar 4 - Sala 401"
+    },
+    {
+        "nome": "PC-FIN-02",
+        "ip": "10.0.3.11",
+        "departamento": "Financeiro",
+        "user": "aline.ferreira",
+        "localizacao": "Andar 4 - Sala 402"
+    },
+    {
+        "nome": "PC-FIN-03",
+        "ip": "10.0.3.12",
+        "departamento": "Financeiro",
+        "user": "gustavo.rodrigues",
+        "localizacao": "Andar 4 - Sala 403"
+    },
+    {
+        "nome": "PC-FIN-04",
+        "ip": "10.0.3.13",
+        "departamento": "Financeiro",
+        "user": "tais.santos",
+        "localizacao": "Andar 4 - Sala 404"
+    },
+    {
+        "nome": "PC-FIN-05",
+        "ip": "10.0.3.14",
+        "departamento": "Financeiro",
+        "user": "leandro.oliveira",
+        "localizacao": "Andar 4 - Sala 405"
+    },
+    {
+        "nome": "PC-FIN-06",
+        "ip": "10.0.3.15",
+        "departamento": "Financeiro",
+        "user": "carolina.moraes",
+        "localizacao": "Andar 4 - Sala 406"
+    },
+    {
+        "nome": "PC-FIN-07",
+        "ip": "10.0.3.16",
+        "departamento": "Financeiro",
+        "user": "thiago.lima",
+        "localizacao": "Andar 4 - Sala 407"
+    },
+    {
+        "nome": "PC-FIN-08",
+        "ip": "10.0.3.17",
+        "departamento": "Financeiro",
+        "user": "renata.duarte",
+        "localizacao": "Andar 4 - Sala 408"
+    },
+    {
+        "nome": "PC-FIN-09",
+        "ip": "10.0.3.18",
+        "departamento": "Financeiro",
+        "user": "felipe.aragao",
+        "localizacao": "Andar 4 - Sala 409"
+    },
+    {
+        "nome": "PC-CTB-01",
+        "ip": "10.0.4.10",
+        "departamento": "Contabilidade",
+        "user": "simone.castro",
+        "localizacao": "Andar 4 - Sala 410"
+    },
+    {
+        "nome": "PC-CTB-02",
+        "ip": "10.0.4.11",
+        "departamento": "Contabilidade",
+        "user": "andre.lopes",
+        "localizacao": "Andar 4 - Sala 411"
+    },
+    {
+        "nome": "PC-CTB-03",
+        "ip": "10.0.4.12",
+        "departamento": "Contabilidade",
+        "user": "cristiane.farias",
+        "localizacao": "Andar 4 - Sala 412"
+    },
+    {
+        "nome": "PC-CTB-04",
+        "ip": "10.0.4.13",
+        "departamento": "Contabilidade",
+        "user": "mario.tavares",
+        "localizacao": "Andar 4 - Sala 413"
+    },
+    {
+        "nome": "PC-CTB-05",
+        "ip": "10.0.4.14",
+        "departamento": "Contabilidade",
+        "user": "paula.queiroz",
+        "localizacao": "Andar 4 - Sala 414"
+    },
+    {
+        "nome": "PC-TI-01",
+        "ip": "10.0.5.10",
+        "departamento": "TI",
+        "user": "lucas.fernandes",
+        "localizacao": "Andar 2 - CPD"
+    },
+    {
+        "nome": "PC-TI-02",
+        "ip": "10.0.5.11",
+        "departamento": "TI",
+        "user": "gabriel.rocha",
+        "localizacao": "Andar 2 - CPD"
+    },
+    {
+        "nome": "PC-TI-03",
+        "ip": "10.0.5.12",
+        "departamento": "TI",
+        "user": "amanda.dias",
+        "localizacao": "Andar 2 - CPD"
+    },
+    {
+        "nome": "PC-TI-04",
+        "ip": "10.0.5.13",
+        "departamento": "TI",
+        "user": "vinicius.moreira",
+        "localizacao": "Andar 2 - CPD"
+    },
+    {
+        "nome": "PC-TI-05",
+        "ip": "10.0.5.14",
+        "departamento": "TI",
+        "user": "beatriz.correia",
+        "localizacao": "Andar 2 - CPD"
+    },
+    {
+        "nome": "PC-TI-06",
+        "ip": "10.0.5.15",
+        "departamento": "TI",
+        "user": "diego.machado",
+        "localizacao": "Andar 2 - CPD"
+    },
+    {
+        "nome": "PC-TI-07",
+        "ip": "10.0.5.16",
+        "departamento": "TI",
+        "user": "isabela.nunes",
+        "localizacao": "Andar 2 - CPD"
+    },
+    {
+        "nome": "PC-TI-08",
+        "ip": "10.0.5.17",
+        "departamento": "TI",
+        "user": "otavio.freitas",
+        "localizacao": "Andar 2 - CPD"
+    },
+    {
+        "nome": "PC-TI-09",
+        "ip": "10.0.5.18",
+        "departamento": "TI",
+        "user": "natalia.batista",
+        "localizacao": "Andar 2 - CPD"
+    },
+    {
+        "nome": "PC-TI-10",
+        "ip": "10.0.5.19",
+        "departamento": "TI",
+        "user": "henrique.pinto",
+        "localizacao": "Andar 2 - CPD"
+    },
+    {
+        "nome": "PC-MKT-01",
+        "ip": "10.0.6.10",
+        "departamento": "Marketing",
+        "user": "laura.monteiro",
+        "localizacao": "Andar 6 - Sala 601"
+    },
+    {
+        "nome": "PC-MKT-02",
+        "ip": "10.0.6.11",
+        "departamento": "Marketing",
+        "user": "pedro.henrique",
+        "localizacao": "Andar 6 - Sala 602"
+    },
+    {
+        "nome": "PC-MKT-03",
+        "ip": "10.0.6.12",
+        "departamento": "Marketing",
+        "user": "sofia.andrade",
+        "localizacao": "Andar 6 - Sala 603"
+    },
+    {
+        "nome": "PC-MKT-04",
+        "ip": "10.0.6.13",
+        "departamento": "Marketing",
+        "user": "mateus.cavalcanti",
+        "localizacao": "Andar 6 - Sala 604"
+    },
+    {
+        "nome": "PC-MKT-05",
+        "ip": "10.0.6.14",
+        "departamento": "Marketing",
+        "user": "vitoria.brasil",
+        "localizacao": "Andar 6 - Sala 605"
+    },
+    {
+        "nome": "PC-MKT-06",
+        "ip": "10.0.6.15",
+        "departamento": "Marketing",
+        "user": "enzo.guerra",
+        "localizacao": "Andar 6 - Sala 606"
+    },
+    {
+        "nome": "PC-MKT-07",
+        "ip": "10.0.6.16",
+        "departamento": "Marketing",
+        "user": "yasmin.melo",
+        "localizacao": "Andar 6 - Sala 607"
+    },
+    {
+        "nome": "PC-VEN-01",
+        "ip": "10.0.7.10",
+        "departamento": "Vendas",
+        "user": "joao.victor",
+        "localizacao": "Andar 7 - Sala 701"
+    },
+    {
+        "nome": "PC-VEN-02",
+        "ip": "10.0.7.11",
+        "departamento": "Vendas",
+        "user": "mariana.silva",
+        "localizacao": "Andar 7 - Sala 702"
+    },
+    {
+        "nome": "PC-VEN-03",
+        "ip": "10.0.7.12",
+        "departamento": "Vendas",
+        "user": "rafaela.souza",
+        "localizacao": "Andar 7 - Sala 703"
+    },
+    {
+        "nome": "PC-VEN-04",
+        "ip": "10.0.7.13",
+        "departamento": "Vendas",
+        "user": "guilherme.santos",
+        "localizacao": "Andar 7 - Sala 704"
+    },
+    {
+        "nome": "PC-VEN-05",
+        "ip": "10.0.7.14",
+        "departamento": "Vendas",
+        "user": "bianca.lima",
+        "localizacao": "Andar 7 - Sala 705"
+    },
+    {
+        "nome": "PC-VEN-06",
+        "ip": "10.0.7.15",
+        "departamento": "Vendas",
+        "user": "renan.oliveira",
+        "localizacao": "Andar 7 - Sala 706"
+    },
+    {
+        "nome": "PC-VEN-07",
+        "ip": "10.0.7.16",
+        "departamento": "Vendas",
+        "user": "clara.pereira",
+        "localizacao": "Andar 7 - Sala 707"
+    },
+    {
+        "nome": "PC-VEN-08",
+        "ip": "10.0.7.17",
+        "departamento": "Vendas",
+        "user": "davi.costa",
+        "localizacao": "Andar 7 - Sala 708"
+    },
+    {
+        "nome": "PC-VEN-09",
+        "ip": "10.0.7.18",
+        "departamento": "Vendas",
+        "user": "lara.martins",
+        "localizacao": "Andar 7 - Sala 709"
+    },
+    {
+        "nome": "PC-VEN-10",
+        "ip": "10.0.7.19",
+        "departamento": "Vendas",
+        "user": "fabio.almeida",
+        "localizacao": "Andar 7 - Sala 710"
+    },
+    {
+        "nome": "PC-VEN-11",
+        "ip": "10.0.7.20",
+        "departamento": "Vendas",
+        "user": "nathalia.ribeiro",
+        "localizacao": "Andar 7 - Sala 711"
+    },
+    {
+        "nome": "PC-CMP-01",
+        "ip": "10.0.8.10",
+        "departamento": "Compras",
+        "user": "sergio.cardoso",
+        "localizacao": "Andar 5 - Sala 501"
+    },
+    {
+        "nome": "PC-CMP-02",
+        "ip": "10.0.8.11",
+        "departamento": "Compras",
+        "user": "michele.goncalves",
+        "localizacao": "Andar 5 - Sala 502"
+    },
+    {
+        "nome": "PC-CMP-03",
+        "ip": "10.0.8.12",
+        "departamento": "Compras",
+        "user": "everton.pires",
+        "localizacao": "Andar 5 - Sala 503"
+    },
+    {
+        "nome": "PC-CMP-04",
+        "ip": "10.0.8.13",
+        "departamento": "Compras",
+        "user": "vanessa.teixeira",
+        "localizacao": "Andar 5 - Sala 504"
+    },
+    {
+        "nome": "PC-CMP-05",
+        "ip": "10.0.8.14",
+        "departamento": "Compras",
+        "user": "william.fonseca",
+        "localizacao": "Andar 5 - Sala 505"
+    },
+    {
+        "nome": "PC-JUR-01",
+        "ip": "10.0.9.10",
+        "departamento": "Jurídico",
+        "user": "helena.magalhaes",
+        "localizacao": "Andar 9 - Sala 901"
+    },
+    {
+        "nome": "PC-JUR-02",
+        "ip": "10.0.9.11",
+        "departamento": "Jurídico",
+        "user": "rodrigo.vasconcelos",
+        "localizacao": "Andar 9 - Sala 902"
+    },
+    {
+        "nome": "PC-JUR-03",
+        "ip": "10.0.9.12",
+        "departamento": "Jurídico",
+        "user": "leticia.pinheiro",
+        "localizacao": "Andar 9 - Sala 903"
+    },
+    {
+        "nome": "PC-JUR-04",
+        "ip": "10.0.9.13",
+        "departamento": "Jurídico",
+        "user": "andre.sampaio",
+        "localizacao": "Andar 9 - Sala 904"
+    },
+    {
+        "nome": "PC-OPE-01",
+        "ip": "10.0.10.10",
+        "departamento": "Operações",
+        "user": "fabiana.azevedo",
+        "localizacao": "Galpão A - Escritório"
+    },
+    {
+        "nome": "PC-OPE-02",
+        "ip": "10.0.10.11",
+        "departamento": "Operações",
+        "user": "marcelo.torres",
+        "localizacao": "Galpão A - Escritório"
+    },
+    {
+        "nome": "PC-OPE-03",
+        "ip": "10.0.10.12",
+        "departamento": "Operações",
+        "user": "luciana.ramos",
+        "localizacao": "Galpão A - Escritório"
+    },
+    {
+        "nome": "PC-OPE-04",
+        "ip": "10.0.10.13",
+        "departamento": "Operações",
+        "user": "adriano.macedo",
+        "localizacao": "Galpão A - Escritório"
+    },
+    {
+        "nome": "PC-OPE-05",
+        "ip": "10.0.10.14",
+        "departamento": "Operações",
+        "user": "cristina.lopes",
+        "localizacao": "Galpão A - Escritório"
+    },
+    {
+        "nome": "PC-OPE-06",
+        "ip": "10.0.10.15",
+        "departamento": "Operações",
+        "user": "paulo.cesar",
+        "localizacao": "Galpão A - Escritório"
+    },
+    {
+        "nome": "PC-OPE-07",
+        "ip": "10.0.10.16",
+        "departamento": "Operações",
+        "user": "raquel.bastos",
+        "localizacao": "Galpão A - Escritório"
+    },
+    {
+        "nome": "PC-OPE-08",
+        "ip": "10.0.10.17",
+        "departamento": "Operações",
+        "user": "tiago.neves",
+        "localizacao": "Galpão A - Escritório"
+    },
+    {
+        "nome": "PC-PRD-01",
+        "ip": "10.0.11.10",
+        "departamento": "Produção",
+        "user": "jose.antonio",
+        "localizacao": "Fábrica - Linha 1"
+    },
+    {
+        "nome": "PC-PRD-02",
+        "ip": "10.0.11.11",
+        "departamento": "Produção",
+        "user": "maria.helena",
+        "localizacao": "Fábrica - Linha 1"
+    },
+    {
+        "nome": "PC-PRD-03",
+        "ip": "10.0.11.12",
+        "departamento": "Produção",
+        "user": "antonio.carlos",
+        "localizacao": "Fábrica - Linha 2"
+    },
+    {
+        "nome": "PC-PRD-04",
+        "ip": "10.0.11.13",
+        "departamento": "Produção",
+        "user": "francisco.jose",
+        "localizacao": "Fábrica - Linha 2"
+    },
+    {
+        "nome": "PC-PRD-05",
+        "ip": "10.0.11.14",
+        "departamento": "Produção",
+        "user": "rita.cassia",
+        "localizacao": "Fábrica - Linha 3"
+    },
+    {
+        "nome": "PC-PRD-06",
+        "ip": "10.0.11.15",
+        "departamento": "Produção",
+        "user": "sebastiao.oliveira",
+        "localizacao": "Fábrica - Linha 3"
+    },
+    {
+        "nome": "PC-LOG-01",
+        "ip": "10.0.12.10",
+        "departamento": "Logística",
+        "user": "alberto.nunes",
+        "localizacao": "Doca 1 - Escritório"
+    },
+    {
+        "nome": "PC-LOG-02",
+        "ip": "10.0.12.11",
+        "departamento": "Logística",
+        "user": "eliane.cunha",
+        "localizacao": "Doca 1 - Escritório"
+    },
+    {
+        "nome": "PC-LOG-03",
+        "ip": "10.0.12.12",
+        "departamento": "Logística",
+        "user": "robson.pereira",
+        "localizacao": "Doca 2 - Escritório"
+    },
+    {
+        "nome": "PC-LOG-04",
+        "ip": "10.0.12.13",
+        "departamento": "Logística",
+        "user": "simone.matos",
+        "localizacao": "Doca 2 - Escritório"
+    },
+    {
+        "nome": "PC-LOG-05",
+        "ip": "10.0.12.14",
+        "departamento": "Logística",
+        "user": "valdir.souza",
+        "localizacao": "Doca 3 - Escritório"
+    },
+    {
+        "nome": "PC-LOG-06",
+        "ip": "10.0.12.15",
+        "departamento": "Logística",
+        "user": "cleber.rodrigues",
+        "localizacao": "Doca 3 - Escritório"
+    },
+    {
+        "nome": "PC-QUA-01",
+        "ip": "10.0.13.10",
+        "departamento": "Qualidade",
+        "user": "renata.gomes",
+        "localizacao": "Laboratório - Sala 1"
+    },
+    {
+        "nome": "PC-QUA-02",
+        "ip": "10.0.13.11",
+        "departamento": "Qualidade",
+        "user": "alexandre.silva",
+        "localizacao": "Laboratório - Sala 1"
+    },
+    {
+        "nome": "PC-QUA-03",
+        "ip": "10.0.13.12",
+        "departamento": "Qualidade",
+        "user": "daniela.martins",
+        "localizacao": "Laboratório - Sala 2"
+    },
+    {
+        "nome": "PC-QUA-04",
+        "ip": "10.0.13.13",
+        "departamento": "Qualidade",
+        "user": "eduardo.ferraz",
+        "localizacao": "Laboratório - Sala 2"
+    },
+    {
+        "nome": "PC-ATD-01",
+        "ip": "10.0.14.10",
+        "departamento": "Atendimento",
+        "user": "bruna.raposo",
+        "localizacao": "Andar 1 - Sala 101"
+    },
+    {
+        "nome": "PC-ATD-02",
+        "ip": "10.0.14.11",
+        "departamento": "Atendimento",
+        "user": "caio.fernandes",
+        "localizacao": "Andar 1 - Sala 102"
+    },
+    {
+        "nome": "PC-ATD-03",
+        "ip": "10.0.14.12",
+        "departamento": "Atendimento",
+        "user": "debora.lima",
+        "localizacao": "Andar 1 - Sala 103"
+    },
+    {
+        "nome": "PC-ATD-04",
+        "ip": "10.0.14.13",
+        "departamento": "Atendimento",
+        "user": "elton.jesus",
+        "localizacao": "Andar 1 - Sala 104"
+    },
+    {
+        "nome": "PC-ATD-05",
+        "ip": "10.0.14.14",
+        "departamento": "Atendimento",
+        "user": "flavia.moraes",
+        "localizacao": "Andar 1 - Sala 105"
+    },
+    {
+        "nome": "PC-REC-01",
+        "ip": "10.0.15.10",
+        "departamento": "Recepção",
+        "user": "aline.recepcao",
+        "localizacao": "Térreo - Recepção"
+    },
+    {
+        "nome": "PC-REC-02",
+        "ip": "10.0.15.11",
+        "departamento": "Recepção",
+        "user": "carla.recepcao",
+        "localizacao": "Térreo - Recepção"
+    },
+    {
+        "nome": "PC-REC-03",
+        "ip": "10.0.15.12",
+        "departamento": "Recepção",
+        "user": "patricia.recepcao",
+        "localizacao": "Térreo - Recepção"
+    },
+    {
+        "nome": "PC-SEG-01",
+        "ip": "10.0.16.10",
+        "departamento": "Segurança",
+        "user": "jonas.seguranca",
+        "localizacao": "Portaria Principal"
+    },
+    {
+        "nome": "PC-SEG-02",
+        "ip": "10.0.16.11",
+        "departamento": "Segurança",
+        "user": "marcos.seguranca",
+        "localizacao": "Portaria Principal"
+    },
+    {
+        "nome": "PC-MAN-01",
+        "ip": "10.0.17.10",
+        "departamento": "Manutenção",
+        "user": "carlos.manutencao",
+        "localizacao": "Oficina - Subsolo"
+    },
+    {
+        "nome": "PC-MAN-02",
+        "ip": "10.0.17.11",
+        "departamento": "Manutenção",
+        "user": "jose.manutencao",
+        "localizacao": "Oficina - Subsolo"
+    },
+    {
+        "nome": "PC-MAN-03",
+        "ip": "10.0.17.12",
+        "departamento": "Manutenção",
+        "user": "paulo.manutencao",
+        "localizacao": "Oficina - Subsolo"
+    }
+]
